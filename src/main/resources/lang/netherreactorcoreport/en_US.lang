@@ -1,0 +1,22 @@
+tile.netherreactorcoreport.glowing.obsidian.name = Glowing Obsidian
+tile.netherreactorcoreport.glowing.obsidian.desc = Obsidian still hot from a reaction.
+
+tile.netherreactorcoreport.nether.reactor.core.name = Nether Reactor Core
+tile.netherreactorcoreport.nether.reactor.core.desc = A blazing core that can be set into action with blocks of gold and cobbled stone.
+
+tile.netherreactorcoreport.nether.reactor.core.active.name = Active Nether Reactor Core
+tile.netherreactorcoreport.nether.reactor.core.active.desc = A smoldering core, it may not react any longer.
+
+tile.netherreactorcoreport.nether.reactor.core.inactive.name = Inactive Nether Reactor Core
+tile.netherreactorcoreport.nether.reactor.core.inactive.desc = A lifeless casing that may be able to be brought back to life. Cold to the touch.
+
+
+achievement.craftNetherReactor = Energetic Event
+achievement.craftNetherReactor.desc = Craft a highly volatile Nether Reactor using a strong metal and a shiny catalyst.
+
+achievement.activateNetherReactor = Hell on Earth
+achievement.activateNetherReactor.desc = Construct and activate a nether reactor, bringing a bit of the nether to you.
+
+achievement.surviveCoreExplosion = Meltdown
+achievement.surviveCoreExplosion.desc = Try to activate a nether reactor in the nether... and live to tell the tale.
+

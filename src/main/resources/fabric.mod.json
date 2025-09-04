@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "netherreactorcoreport",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This mod aims to help new BTA modders.",
+  "name": "my coochie hurt",
+  "description": "wtf is skysillade talking about bruh",
   "authors": [
-    "Turnip Labs"
+    "NovaStorm93"
   ],
   "contact": {
     "homepage": "",
@@ -19,20 +19,23 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-			"turniplabs.examplemod.ExampleMod"
+			"novasmods.netherreactorcoreport.NetherReactorCorePort"
     ],
 		"beforeGameStart": [
-			"turniplabs.examplemod.ExampleMod"
+			"novasmods.netherreactorcoreport.NetherReactorCorePort"
 		],
 		"afterGameStart": [
-			"turniplabs.examplemod.ExampleMod"
+			"novasmods.netherreactorcoreport.NetherReactorCorePort"
 		],
 		"recipesReady": [
-			"turniplabs.examplemod.ExampleMod"
-		]
+			"novasmods.netherreactorcoreport.NetherReactorCorePort"
+		],
+    "initModels": [
+      "novasmods.netherreactorcoreport.InitializeModels"
+    ]
 	},
   "mixins": [
-      "examplemod.mixins.json"
+      "netherreactorcoreport.mixins.json"
   ],
 
   "depends": {
